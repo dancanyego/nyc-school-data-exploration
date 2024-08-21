@@ -1,6 +1,6 @@
 # Analyzing NYC High School Data
 
-This project analyzes data from New York City public high schools to understand various factors affecting SAT scores and student performance. The analysis is performed in a Jupyter Notebook, utilizing Python's data analysis libraries.
+This project analyzes Several data from New York City public high schools to understand various factors affecting SAT scores and student performance. The analysis is performed in a Jupyter Notebook, utilizing Python's data analysis libraries.
 
 ## Overview
 
